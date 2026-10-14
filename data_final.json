@@ -1,0 +1,1071 @@
+[
+{
+    "model": "meters.block",
+    "pk": 1,
+    "fields": {
+        "name": "HT CAMPUS",
+        "description": "",
+        "created_at": "2026-02-27T07:03:37.004Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 2,
+    "fields": {
+        "name": "Hostels",
+        "description": "",
+        "created_at": "2026-02-27T07:26:40.743Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 3,
+    "fields": {
+        "name": "SPAN HT CAMPUS",
+        "description": "",
+        "created_at": "2026-02-28T07:41:12.834Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 4,
+    "fields": {
+        "name": "IT Park Campus",
+        "description": "",
+        "created_at": "2026-02-28T07:41:19.116Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 5,
+    "fields": {
+        "name": "AIC  Campus",
+        "description": "",
+        "created_at": "2026-02-28T07:41:23.848Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 6,
+    "fields": {
+        "name": "WEH Hostel",
+        "description": "",
+        "created_at": "2026-02-28T07:41:28.410Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 7,
+    "fields": {
+        "name": "AIC Raise",
+        "description": "",
+        "created_at": "2026-02-28T07:41:33.760Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 8,
+    "fields": {
+        "name": "L'Building VWR",
+        "description": "",
+        "created_at": "2026-02-28T07:41:38.601Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 9,
+    "fields": {
+        "name": "Block 3",
+        "description": "",
+        "created_at": "2026-02-28T07:41:50.721Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 11,
+    "fields": {
+        "name": "Block 1, Ground floor",
+        "description": "",
+        "created_at": "2026-02-28T07:42:06.368Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 12,
+    "fields": {
+        "name": "Chilies building",
+        "description": "",
+        "created_at": "2026-02-28T07:42:50.978Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 13,
+    "fields": {
+        "name": "RPS",
+        "description": "",
+        "created_at": "2026-02-28T07:42:57.259Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 14,
+    "fields": {
+        "name": "Rathinam Grand Hall",
+        "description": "",
+        "created_at": "2026-02-28T07:43:02.635Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 15,
+    "fields": {
+        "name": "Kings 1 Hostel",
+        "description": "",
+        "created_at": "2026-02-28T07:43:08.612Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 16,
+    "fields": {
+        "name": "Kings 2 & 3 Hostels",
+        "description": "",
+        "created_at": "2026-02-28T07:43:17.375Z"
+    }
+},
+{
+    "model": "meters.block",
+    "pk": 17,
+    "fields": {
+        "name": "Food court",
+        "description": "",
+        "created_at": "2026-02-28T07:43:22.151Z"
+    }
+},
+{
+    "model": "meters.category",
+    "pk": 1,
+    "fields": {
+        "name": "Institute",
+        "created_at": "2026-02-27T05:56:34.764Z"
+    }
+},
+{
+    "model": "meters.category",
+    "pk": 3,
+    "fields": {
+        "name": "Hostel",
+        "created_at": "2026-02-27T07:26:24.980Z"
+    }
+},
+{
+    "model": "meters.category",
+    "pk": 4,
+    "fields": {
+        "name": "Common usage",
+        "created_at": "2026-02-27T11:03:37.789Z"
+    }
+},
+{
+    "model": "meters.category",
+    "pk": 5,
+    "fields": {
+        "name": "Kitchen",
+        "created_at": "2026-02-27T11:03:43.213Z"
+    }
+},
+{
+    "model": "meters.category",
+    "pk": 6,
+    "fields": {
+        "name": "IT Tenants",
+        "created_at": "2026-02-27T11:03:51.824Z"
+    }
+},
+{
+    "model": "meters.category",
+    "pk": 7,
+    "fields": {
+        "name": "Shops",
+        "created_at": "2026-02-27T11:03:55.642Z"
+    }
+},
+{
+    "model": "meters.category",
+    "pk": 8,
+    "fields": {
+        "name": "Schools",
+        "created_at": "2026-02-28T09:55:26.523Z"
+    }
+},
+{
+    "model": "meters.company",
+    "pk": 9,
+    "fields": {
+        "name": "Datapage",
+        "category": 6,
+        "block": 1,
+        "created_at": "2026-02-27T11:04:39.074Z"
+    }
+},
+{
+    "model": "meters.company",
+    "pk": 10,
+    "fields": {
+        "name": "Federal Bank Ground Floor",
+        "category": 6,
+        "block": 1,
+        "created_at": "2026-02-28T07:45:57.005Z"
+    }
+},
+{
+    "model": "meters.company",
+    "pk": 11,
+    "fields": {
+        "name": "Federal Bank 1st Floor",
+        "category": 6,
+        "block": 1,
+        "created_at": "2026-02-28T07:48:24.250Z"
+    }
+},
+{
+    "model": "meters.company",
+    "pk": 12,
+    "fields": {
+        "name": "Wom Office ( Magnum)(19/1 to 31/1)",
+        "category": 6,
+        "block": 1,
+        "created_at": "2026-02-28T07:51:27.768Z"
+    }
+},
+{
+    "model": "meters.company",
+    "pk": 13,
+    "fields": {
+        "name": "Mahat Labs 3rd Floor",
+        "category": 6,
+        "block": 1,
+        "created_at": "2026-02-28T08:45:11.909Z"
+    }
+},
+{
+    "model": "meters.company",
+    "pk": 14,
+    "fields": {
+        "name": "100 KVA UPS(RCAS 50% &RTC 50% bill)",
+        "category": 4,
+        "block": 1,
+        "created_at": "2026-02-28T09:13:07.089Z"
+    }
+},
+{
+    "model": "meters.company",
+    "pk": 15,
+    "fields": {
+        "name": "Kanchana bakery",
+        "category": 3,
+        "block": 17,
+        "created_at": "2026-02-28T09:17:54.190Z"
+    }
+},
+{
+    "model": "meters.company",
+    "pk": 16,
+    "fields": {
+        "name": "Arts College (RCAS)  Meter 1 (Chanakya)",
+        "category": 1,
+        "block": 1,
+        "created_at": "2026-02-28T09:24:16.040Z"
+    }
+},
+{
+    "model": "meters.company",
+    "pk": 17,
+    "fields": {
+        "name": "Arts College (RCAS)  Meter 2(CV Raman)",
+        "category": 1,
+        "block": 1,
+        "created_at": "2026-02-28T09:26:35.493Z"
+    }
+},
+{
+    "model": "meters.meterconfig",
+    "pk": 18,
+    "fields": {
+        "company": 9,
+        "service_no": "HT 576",
+        "tariff": "III",
+        "unit_cost": "9.40",
+        "kw_kva": "608.00",
+        "effective_date": "2025-07-01",
+        "ctr_enabled": false,
+        "ctr_value": null,
+        "genset": 8,
+        "fixed_demand": "36.00",
+        "created_at": "2026-02-27T12:05:13.179Z"
+    }
+},
+{
+    "model": "meters.meterconfig",
+    "pk": 19,
+    "fields": {
+        "company": 10,
+        "service_no": "HT 576",
+        "tariff": "III",
+        "unit_cost": "9.40",
+        "kw_kva": "608.00",
+        "effective_date": "2025-01-01",
+        "ctr_enabled": false,
+        "ctr_value": null,
+        "genset": 3,
+        "fixed_demand": "105.00",
+        "created_at": "2026-02-28T07:47:56.316Z"
+    }
+},
+{
+    "model": "meters.meterconfig",
+    "pk": 20,
+    "fields": {
+        "company": 11,
+        "service_no": "HT 576",
+        "tariff": "III",
+        "unit_cost": "9.40",
+        "kw_kva": "608.00",
+        "effective_date": "2025-01-01",
+        "ctr_enabled": false,
+        "ctr_value": null,
+        "genset": 3,
+        "fixed_demand": "105.00",
+        "created_at": "2026-02-28T07:49:28.758Z"
+    }
+},
+{
+    "model": "meters.meterconfig",
+    "pk": 22,
+    "fields": {
+        "company": 12,
+        "service_no": "HT535/HT576",
+        "tariff": "V",
+        "unit_cost": "10.45",
+        "kw_kva": "608.00",
+        "effective_date": "2026-01-01",
+        "ctr_enabled": false,
+        "ctr_value": null,
+        "genset": 4,
+        "fixed_demand": "50.00",
+        "created_at": "2026-02-28T07:53:12.471Z"
+    }
+},
+{
+    "model": "meters.meterconfig",
+    "pk": 23,
+    "fields": {
+        "company": 13,
+        "service_no": "HT 576",
+        "tariff": "III",
+        "unit_cost": "9.40",
+        "kw_kva": "608.00",
+        "effective_date": "2025-01-01",
+        "ctr_enabled": false,
+        "ctr_value": null,
+        "genset": 3,
+        "fixed_demand": "105.00",
+        "created_at": "2026-02-28T08:48:36.800Z"
+    }
+},
+{
+    "model": "meters.meterconfig",
+    "pk": 24,
+    "fields": {
+        "company": 14,
+        "service_no": "HT 576,1097",
+        "tariff": "V/ III,B",
+        "unit_cost": "9.40",
+        "kw_kva": "0.00",
+        "effective_date": "2026-01-01",
+        "ctr_enabled": false,
+        "ctr_value": null,
+        "genset": 3,
+        "fixed_demand": "0.00",
+        "created_at": "2026-02-28T09:16:18.525Z"
+    }
+},
+{
+    "model": "meters.meterconfig",
+    "pk": 25,
+    "fields": {
+        "company": 15,
+        "service_no": "HT 576",
+        "tariff": "V",
+        "unit_cost": "10.45",
+        "kw_kva": "110.00",
+        "effective_date": "2026-01-01",
+        "ctr_enabled": false,
+        "ctr_value": null,
+        "genset": 3,
+        "fixed_demand": "3.00",
+        "created_at": "2026-02-28T09:20:04.051Z"
+    }
+},
+{
+    "model": "meters.meterconfig",
+    "pk": 26,
+    "fields": {
+        "company": 16,
+        "service_no": "123",
+        "tariff": "III",
+        "unit_cost": "9.40",
+        "kw_kva": "608.00",
+        "effective_date": "2026-01-01",
+        "ctr_enabled": false,
+        "ctr_value": null,
+        "genset": 3,
+        "fixed_demand": "40.00",
+        "created_at": "2026-02-28T09:26:18.329Z"
+    }
+},
+{
+    "model": "meters.meterconfig",
+    "pk": 27,
+    "fields": {
+        "company": 17,
+        "service_no": "123",
+        "tariff": "III",
+        "unit_cost": "9.40",
+        "kw_kva": "608.00",
+        "effective_date": "2026-01-01",
+        "ctr_enabled": false,
+        "ctr_value": null,
+        "genset": 3,
+        "fixed_demand": "30.00",
+        "created_at": "2026-02-28T09:27:05.832Z"
+    }
+},
+{
+    "model": "meters.meterreading",
+    "pk": 19,
+    "fields": {
+        "company": 9,
+        "reading_date": "2026-01-01",
+        "previous_reading": "294520.00",
+        "current_reading": "301535.00",
+        "reading_value": "7015.00",
+        "peak_hour_enabled": true,
+        "peak_hour_manual_override": false,
+        "peak_hour_manual_value": null,
+        "created_at": "2026-02-28T08:50:51.766Z"
+    }
+},
+{
+    "model": "meters.meterreading",
+    "pk": 20,
+    "fields": {
+        "company": 10,
+        "reading_date": "2026-01-01",
+        "previous_reading": "230637.00",
+        "current_reading": "231130.00",
+        "reading_value": "493.00",
+        "peak_hour_enabled": true,
+        "peak_hour_manual_override": false,
+        "peak_hour_manual_value": null,
+        "created_at": "2026-02-28T08:51:49.035Z"
+    }
+},
+{
+    "model": "meters.meterreading",
+    "pk": 21,
+    "fields": {
+        "company": 11,
+        "reading_date": "2026-01-01",
+        "previous_reading": "126093.00",
+        "current_reading": "137027.00",
+        "reading_value": "10934.00",
+        "peak_hour_enabled": true,
+        "peak_hour_manual_override": false,
+        "peak_hour_manual_value": null,
+        "created_at": "2026-02-28T08:52:14.032Z"
+    }
+},
+{
+    "model": "meters.meterreading",
+    "pk": 22,
+    "fields": {
+        "company": 12,
+        "reading_date": "2026-01-01",
+        "previous_reading": "478819.00",
+        "current_reading": "482298.00",
+        "reading_value": "3479.00",
+        "peak_hour_enabled": true,
+        "peak_hour_manual_override": false,
+        "peak_hour_manual_value": null,
+        "created_at": "2026-02-28T08:52:58.673Z"
+    }
+},
+{
+    "model": "meters.meterreading",
+    "pk": 23,
+    "fields": {
+        "company": 13,
+        "reading_date": "2026-01-01",
+        "previous_reading": "278325.00",
+        "current_reading": "281688.00",
+        "reading_value": "3363.00",
+        "peak_hour_enabled": true,
+        "peak_hour_manual_override": false,
+        "peak_hour_manual_value": null,
+        "created_at": "2026-02-28T08:55:15.909Z"
+    }
+},
+{
+    "model": "meters.meterreading",
+    "pk": 24,
+    "fields": {
+        "company": 14,
+        "reading_date": "2026-01-01",
+        "previous_reading": "317584.00",
+        "current_reading": "325400.00",
+        "reading_value": "7816.00",
+        "peak_hour_enabled": false,
+        "peak_hour_manual_override": false,
+        "peak_hour_manual_value": null,
+        "created_at": "2026-02-28T09:17:04.278Z"
+    }
+},
+{
+    "model": "meters.meterreading",
+    "pk": 25,
+    "fields": {
+        "company": 15,
+        "reading_date": "2026-01-01",
+        "previous_reading": "35372.00",
+        "current_reading": "35916.00",
+        "reading_value": "544.00",
+        "peak_hour_enabled": false,
+        "peak_hour_manual_override": false,
+        "peak_hour_manual_value": null,
+        "created_at": "2026-02-28T09:21:03.373Z"
+    }
+},
+{
+    "model": "meters.gensetreading",
+    "pk": 6,
+    "fields": {
+        "company": 9,
+        "reading_date": "2026-01-01",
+        "previous_reading": "6211.00",
+        "current_reading": "6303.00",
+        "reading_value": "92.00",
+        "created_at": "2026-02-28T08:59:02.778Z"
+    }
+},
+{
+    "model": "meters.gensetreading",
+    "pk": 7,
+    "fields": {
+        "company": 10,
+        "reading_date": "2026-01-01",
+        "previous_reading": "4017.00",
+        "current_reading": "4029.00",
+        "reading_value": "12.00",
+        "created_at": "2026-02-28T09:00:22.434Z"
+    }
+},
+{
+    "model": "meters.gensetreading",
+    "pk": 8,
+    "fields": {
+        "company": 11,
+        "reading_date": "2026-01-01",
+        "previous_reading": "2844.00",
+        "current_reading": "3097.00",
+        "reading_value": "253.00",
+        "created_at": "2026-02-28T09:00:38.194Z"
+    }
+},
+{
+    "model": "meters.gensetreading",
+    "pk": 9,
+    "fields": {
+        "company": 12,
+        "reading_date": "2026-01-01",
+        "previous_reading": "7421.00",
+        "current_reading": "7603.00",
+        "reading_value": "182.00",
+        "created_at": "2026-02-28T09:01:00.232Z"
+    }
+},
+{
+    "model": "meters.gensetreading",
+    "pk": 10,
+    "fields": {
+        "company": 13,
+        "reading_date": "2026-01-01",
+        "previous_reading": "4789.00",
+        "current_reading": "4850.00",
+        "reading_value": "61.00",
+        "created_at": "2026-02-28T09:01:16.003Z"
+    }
+},
+{
+    "model": "meters.gensetreading",
+    "pk": 11,
+    "fields": {
+        "company": 15,
+        "reading_date": "2026-01-01",
+        "previous_reading": "1138.00",
+        "current_reading": "1162.00",
+        "reading_value": "24.00",
+        "created_at": "2026-02-28T09:29:27.539Z"
+    }
+},
+{
+    "model": "meters.gensetreading",
+    "pk": 12,
+    "fields": {
+        "company": 16,
+        "reading_date": "2026-01-01",
+        "previous_reading": "1970.00",
+        "current_reading": "2130.00",
+        "reading_value": "160.00",
+        "created_at": "2026-02-28T09:30:06.920Z"
+    }
+},
+{
+    "model": "meters.gensetreading",
+    "pk": 13,
+    "fields": {
+        "company": 17,
+        "reading_date": "2026-01-01",
+        "previous_reading": "13816.00",
+        "current_reading": "14204.00",
+        "reading_value": "388.00",
+        "created_at": "2026-02-28T09:30:18.529Z"
+    }
+},
+{
+    "model": "meters.gensetreading",
+    "pk": 14,
+    "fields": {
+        "company": 14,
+        "reading_date": "2026-01-01",
+        "previous_reading": "7361.00",
+        "current_reading": "7521.00",
+        "reading_value": "160.00",
+        "created_at": "2026-02-28T09:30:40.504Z"
+    }
+},
+{
+    "model": "meters.genset",
+    "pk": 3,
+    "fields": {
+        "name": "250(Old) & 250 (New)  KVA Genset",
+        "kva_capacity_text": "250 + 250",
+        "total_kva": "500.00",
+        "location": "",
+        "created_at": "2026-02-27T10:05:38.137Z"
+    }
+},
+{
+    "model": "meters.genset",
+    "pk": 4,
+    "fields": {
+        "name": "C4 2nd floor, 180 KVA Genset",
+        "kva_capacity_text": "180",
+        "total_kva": "180.00",
+        "location": "C4 2nd floor",
+        "created_at": "2026-02-27T10:06:05.711Z"
+    }
+},
+{
+    "model": "meters.genset",
+    "pk": 5,
+    "fields": {
+        "name": "Block-1, 250 KVA Genset",
+        "kva_capacity_text": "250",
+        "total_kva": "250.00",
+        "location": "Block-1",
+        "created_at": "2026-02-27T10:06:29.382Z"
+    }
+},
+{
+    "model": "meters.genset",
+    "pk": 6,
+    "fields": {
+        "name": "Block- 2, 140 KVA Genset",
+        "kva_capacity_text": "140",
+        "total_kva": "140.00",
+        "location": "Block- 2",
+        "created_at": "2026-02-27T10:06:50.870Z"
+    }
+},
+{
+    "model": "meters.genset",
+    "pk": 7,
+    "fields": {
+        "name": "AIC & WEH 180 KVA Genset",
+        "kva_capacity_text": "180",
+        "total_kva": "180.00",
+        "location": "AIC & WEH",
+        "created_at": "2026-02-27T10:07:49.815Z"
+    }
+},
+{
+    "model": "meters.genset",
+    "pk": 8,
+    "fields": {
+        "name": "Engg college, 250 + 250 + 320 KVA Genset",
+        "kva_capacity_text": "250 + 250 + 320",
+        "total_kva": "820.00",
+        "location": "Engg college",
+        "created_at": "2026-02-27T10:08:27.248Z"
+    }
+},
+{
+    "model": "meters.genset",
+    "pk": 9,
+    "fields": {
+        "name": "Span (SEZ),  250 +250 +500+500 KVA",
+        "kva_capacity_text": "250 + 250 + 500 + 500",
+        "total_kva": "1500.00",
+        "location": "Span (SEZ)",
+        "created_at": "2026-02-27T10:09:02.019Z"
+    }
+},
+{
+    "model": "meters.genset",
+    "pk": 10,
+    "fields": {
+        "name": "Kings Hostel, 250 KVA Genset",
+        "kva_capacity_text": "250",
+        "total_kva": "250.00",
+        "location": "Kings Hostel",
+        "created_at": "2026-02-27T10:09:25.529Z"
+    }
+},
+{
+    "model": "meters.genset",
+    "pk": 11,
+    "fields": {
+        "name": "Chillies Hostel & Chicking Hotel, 125 KVA Genset",
+        "kva_capacity_text": "125",
+        "total_kva": "125.00",
+        "location": "Chillies Hostel & Chicking Hotel",
+        "created_at": "2026-02-27T10:09:51.331Z"
+    }
+},
+{
+    "model": "meters.taxrate",
+    "pk": 1,
+    "fields": {
+        "percentage": "5.00",
+        "effective_date": "2025-01-01",
+        "created_at": "2026-02-27T11:56:43.832Z"
+    }
+},
+{
+    "model": "meters.dieselrate",
+    "pk": 1,
+    "fields": {
+        "price_per_liter": "94.78",
+        "effective_date": "2026-01-01",
+        "created_at": "2026-02-27T15:33:48.252Z"
+    }
+},
+{
+    "model": "meters.dieselentry",
+    "pk": 7,
+    "fields": {
+        "genset": 3,
+        "entry_date": "2026-01-01",
+        "opening_stock": "2360.00",
+        "purchased_liters": "650.00",
+        "consumed_liters": "510.00",
+        "closing_stock": "2500.00",
+        "created_at": "2026-02-28T09:02:17.435Z"
+    }
+},
+{
+    "model": "meters.dieselentry",
+    "pk": 8,
+    "fields": {
+        "genset": 4,
+        "entry_date": "2026-01-01",
+        "opening_stock": "800.00",
+        "purchased_liters": "250.00",
+        "consumed_liters": "100.00",
+        "closing_stock": "950.00",
+        "created_at": "2026-02-28T09:02:56.641Z"
+    }
+},
+{
+    "model": "meters.dieselentry",
+    "pk": 9,
+    "fields": {
+        "genset": 8,
+        "entry_date": "2026-01-01",
+        "opening_stock": "4200.00",
+        "purchased_liters": "0.00",
+        "consumed_liters": "700.00",
+        "closing_stock": "3500.00",
+        "created_at": "2026-02-28T09:05:07.942Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 7,
+    "fields": {
+        "category": 1,
+        "unit_count": 10042,
+        "unit_type": "Students",
+        "effective_date": "2025-09-01",
+        "created_at": "2026-03-07T04:25:19.896Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 8,
+    "fields": {
+        "category": 1,
+        "unit_count": 10468,
+        "unit_type": "Students",
+        "effective_date": "2025-11-01",
+        "created_at": "2026-03-07T04:25:45.947Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 9,
+    "fields": {
+        "category": 8,
+        "unit_count": 1826,
+        "unit_type": "Students",
+        "effective_date": "2025-09-01",
+        "created_at": "2026-03-07T04:26:10.588Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 10,
+    "fields": {
+        "category": 3,
+        "unit_count": 2974,
+        "unit_type": "Students",
+        "effective_date": "2025-09-01",
+        "created_at": "2026-03-07T04:26:33.479Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 11,
+    "fields": {
+        "category": 3,
+        "unit_count": 3094,
+        "unit_type": "Students",
+        "effective_date": "2025-10-01",
+        "created_at": "2026-03-07T04:26:55.744Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 12,
+    "fields": {
+        "category": 3,
+        "unit_count": 3079,
+        "unit_type": "Students",
+        "effective_date": "2025-11-01",
+        "created_at": "2026-03-07T04:27:12.886Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 13,
+    "fields": {
+        "category": 3,
+        "unit_count": 2902,
+        "unit_type": "Students",
+        "effective_date": "2025-12-01",
+        "created_at": "2026-03-07T04:27:34.009Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 14,
+    "fields": {
+        "category": 3,
+        "unit_count": 2851,
+        "unit_type": "Students",
+        "effective_date": "2026-01-01",
+        "created_at": "2026-03-07T04:27:57.272Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 15,
+    "fields": {
+        "category": 3,
+        "unit_count": 2810,
+        "unit_type": "Students",
+        "effective_date": "2026-02-01",
+        "created_at": "2026-03-07T04:28:18.506Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 16,
+    "fields": {
+        "category": 5,
+        "unit_count": 2974,
+        "unit_type": "Students",
+        "effective_date": "2025-09-01",
+        "created_at": "2026-03-07T04:28:43.770Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 17,
+    "fields": {
+        "category": 5,
+        "unit_count": 3094,
+        "unit_type": "Students",
+        "effective_date": "2025-10-01",
+        "created_at": "2026-03-07T04:29:22.757Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 18,
+    "fields": {
+        "category": 5,
+        "unit_count": 3079,
+        "unit_type": "Students",
+        "effective_date": "2025-11-01",
+        "created_at": "2026-03-07T04:29:51.465Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 19,
+    "fields": {
+        "category": 5,
+        "unit_count": 2902,
+        "unit_type": "Students",
+        "effective_date": "2025-12-01",
+        "created_at": "2026-03-07T04:30:12.023Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 20,
+    "fields": {
+        "category": 5,
+        "unit_count": 2851,
+        "unit_type": "Students",
+        "effective_date": "2026-01-01",
+        "created_at": "2026-03-07T04:30:28.750Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 21,
+    "fields": {
+        "category": 5,
+        "unit_count": 2810,
+        "unit_type": "Students",
+        "effective_date": "2026-02-01",
+        "created_at": "2026-03-07T04:30:44.144Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 22,
+    "fields": {
+        "category": 6,
+        "unit_count": 6500,
+        "unit_type": "IT Tenants",
+        "effective_date": "2025-09-01",
+        "created_at": "2026-03-07T04:31:15.354Z"
+    }
+},
+{
+    "model": "meters.facilitybillingunit",
+    "pk": 23,
+    "fields": {
+        "category": 7,
+        "unit_count": 13,
+        "unit_type": "Shops",
+        "effective_date": "2025-09-01",
+        "created_at": "2026-03-07T04:31:50.653Z"
+    }
+},
+{
+    "model": "meters.powercut",
+    "pk": 1,
+    "fields": {
+        "date": "2026-03-07",
+        "start_time": "14:00:00",
+        "end_time": "16:00:00",
+        "created_at": "2026-03-07T11:26:55.586Z"
+    }
+},
+{
+    "model": "meters.powercut",
+    "pk": 2,
+    "fields": {
+        "date": "2025-03-01",
+        "start_time": "15:00:00",
+        "end_time": "16:30:00",
+        "created_at": "2026-03-07T11:29:08.095Z"
+    }
+},
+{
+    "model": "meters.powercut",
+    "pk": 3,
+    "fields": {
+        "date": "2026-03-02",
+        "start_time": "11:30:00",
+        "end_time": "15:30:00",
+        "created_at": "2026-03-07T11:29:35.779Z"
+    }
+},
+{
+    "model": "meters.powercut",
+    "pk": 4,
+    "fields": {
+        "date": "2026-03-03",
+        "start_time": "17:30:00",
+        "end_time": "19:30:00",
+        "created_at": "2026-03-07T11:29:45.326Z"
+    }
+},
+{
+    "model": "meters.powercut",
+    "pk": 5,
+    "fields": {
+        "date": "2026-03-04",
+        "start_time": "16:30:00",
+        "end_time": "18:22:00",
+        "created_at": "2026-03-07T11:29:57.551Z"
+    }
+},
+{
+    "model": "meters.powercut",
+    "pk": 6,
+    "fields": {
+        "date": "2026-03-05",
+        "start_time": "06:30:00",
+        "end_time": "09:30:00",
+        "created_at": "2026-03-07T11:30:07.676Z"
+    }
+},
+{
+    "model": "meters.powercut",
+    "pk": 7,
+    "fields": {
+        "date": "2026-03-06",
+        "start_time": "19:52:00",
+        "end_time": "22:53:00",
+        "created_at": "2026-03-07T11:30:49.985Z"
+    }
+}
+]

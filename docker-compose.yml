@@ -1,0 +1,44 @@
+
+services:
+  db:
+    image: postgres:15-alpine
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=power_tracker
+      - POSTGRES_USER=GM
+      - POSTGRES_PASSWORD=RathinamGM@32145
+    ports:
+      - "5432:5432"
+
+  rathinambackend:
+    container_name: rathinambackend
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    environment:
+      - DB_NAME=power_tracker
+      - DB_USER=GM
+      - DB_PASSWORD=RathinamGM@32145
+      - DB_HOST=db
+      - DB_PORT=5432
+    depends_on:
+      - db
+
+  rathinamfrontend:
+    container_name: rathinamfrontend
+    build: ./frontend
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_API_URL=http://localhost:8000/api
+    depends_on:
+      - rathinambackend
+
+volumes:
+  postgres_data:
